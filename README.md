@@ -31,9 +31,17 @@ The goal of this project is to demonstrate **real-world steganography techniques
 The project is structured modularly to separate **steganography logic from the user interface**.
 
 StegoCore/
+
+
 │
+
+
 ├── core/
+
+
 │ ├── encoder.py
+
+
 │ ├── decoder.py
 │ ├── file_encoder.py
 │ ├── file_decoder.py
