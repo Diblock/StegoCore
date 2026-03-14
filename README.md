@@ -32,33 +32,46 @@ The project is structured modularly to separate **steganography logic from the u
 
 StegoCore/
 
-
 │
-
 
 ├── core/
 
-
 │ ├── encoder.py
 
-
 │ ├── decoder.py
+
 │ ├── file_encoder.py
+
 │ ├── file_decoder.py
+
 │ └── progress.py
+
 │
+
 ├── ui/
+
 │ ├── menu.py
+
 │ ├── ui_central.py
+
 │ ├── extractor.py
+
 │ └── image_selector.py
+
 │
+
 ├── images/
+
 ├── output/
+
 ├── screenshots/
+
 │
+
 ├── main.py
+
 └── requirements.txt
+
 
 
 ### core/
