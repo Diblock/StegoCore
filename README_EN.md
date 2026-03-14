@@ -121,8 +121,9 @@ For this reason the tool uses **PNG images**.
 
 ## Clone repository
 
-git clone https://github.com/Diblock/tech-security-portfolio.git
-cd tech-security-portfolio/Scripts/Steneografia/StegoCore
+[git clone https://github.com/Diblock/tech-security-portfolio.git](https://github.com/Diblock/StegoCore.git)
+
+cd /Diblock/StegoCore
 
 2️⃣ Install dependencies
 
